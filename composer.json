@@ -1,0 +1,27 @@
+{
+    "name": "jiugeto/weixin-laravel5",
+    "description": "weixin for laravel5",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "jiuge",
+            "email": "946493655@qq.com"
+        }
+    ],
+    "require": {
+        "php": "^7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "JiugeTo\\WeiXinLaravel5\\": "src/"
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
