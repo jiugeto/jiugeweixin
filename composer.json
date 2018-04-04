@@ -1,5 +1,5 @@
 {
-    "name": "jiugeto/jiugewenxin",
+    "name": "jiugeto/weixin-laravel5",
     "description": "weixin for laravel5",
     "type": "library",
     "license": "MIT",
@@ -9,6 +9,7 @@
             "email": "946493655@qq.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {
         "php": "^7.0"
     },
@@ -21,7 +22,5 @@
         "branch-alias": {
             "dev-master": "0.1-dev"
         }
-    },
-    "minimum-stability": "dev",
-    "prefer-stable": true
+    }
 }
